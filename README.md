@@ -1,7 +1,8 @@
 # Custom GPT Security Analysis
 
 ## Introduction
-This repository is part of a research study focused on evaluating the security vulnerabilities of custom GPT models, particularly against prompt injection attacks. Our paper, titled "Customized but Compromised: Assessing Prompt Injection Risks in User-Designed GPTs," details our methodology, findings, and implications for GPT security.
+This repository is part of a research study focused on evaluating the security vulnerabilities of custom GPT models, particularly against prompt injection attacks. Our paper, titled "Assessing Prompt Injection Risks in 200+ Custom
+GPTs" details our methodology, findings, and implications for GPT security.
 
 ## Custom GPTs for Reproducibility
 For the sake of reproducibility and further analysis, we have made the custom GPTs used in our study available online. You can access them through the following links:
