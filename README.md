@@ -19,3 +19,11 @@ We give the adversarial prompts used in our red-teaming exercises, which led to 
 
 ## Red-Teaming Results
 The red-teaming efforts were documented through a series of screenshots in `red-teaming_screenshots/` , showcasing the responses of custom GPTs to our adversarial prompts.
+
+## FQA
+1. Could you share the experiment data or the target custom GPT list?
+   
+   We are afraid that we cannot share them. As we stated in our paper, we deleted all extracted information after the experiment to avoid ethical concerns. Similarly, we cannot provide the list of the target GPTs.
+2. I tried the red-teaming prompts but did not yield the same results shown in the screenshots.
+
+   Due to the sampling nature of GPTs, you may get different results even when you use the same prompts in the web interference. Thus, simply retrying may help. However, we did notice the improved prompt injection robustness by Nov 16 that some red-teaming prompts could not succeed even after 5 trials. This is potentially due to some updates of OpenAI.
