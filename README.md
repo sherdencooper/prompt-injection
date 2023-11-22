@@ -20,6 +20,17 @@ We give the adversarial prompts used in our red-teaming exercises, which led to 
 ## Red-Teaming Results
 The red-teaming efforts were documented through a series of screenshots in `red-teaming_screenshots/` , showcasing the responses of custom GPTs to our adversarial prompts.
 
+## Citation
+If you find our work useful, please cite our paper:
+```
+@article{yu2023assessing,
+  title={Assessing Prompt Injection Risks in 200+ Custom GPTs},
+  author={Yu, Jiahao and Wu, Yuhang and Shu, Dong and Jin, Mingyu and Xing, Xinyu},
+  journal={arXiv preprint arXiv:2311.11538},
+  year={2023}
+}
+```
+
 ## FQA
 1. Could you share the experiment data or the target custom GPT list?
    
